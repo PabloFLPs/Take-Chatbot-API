@@ -1,0 +1,8 @@
+{
+  "name": "take-chatbot-api",
+  "version": "1.0.0",
+  "description": "A simple API to get data from Github API for the Chatbot application (Take Blip Builder App)",
+  "main": "index.js",
+  "author": "Pablo Felipe <pablofelipe1999@hotmail.com>",
+  "license": "MIT"
+}
